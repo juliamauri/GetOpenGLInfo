@@ -3,6 +3,7 @@
 GetOpenGLInfo is an OpenGL program that generates a .txt file with your GL info. If GL_ARB_shader_storage_buffer_object extension exits, it will get the extension values.
 
 * Author: [Julià Mauri Costa](https://github.com/juliamauri)
+* Repository: [GetOpenGLInfo](https://github.com/juliamauri/GetOpenGLInfo)
 
 ## External lib
 
